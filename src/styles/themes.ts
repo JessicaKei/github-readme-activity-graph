@@ -366,6 +366,16 @@ export const selectColors = (queryString: string): Colors => {
                 lineColor: '5DA3FA',
                 pointColor: '2827CC',
             };
+        case 'deep_ocean':
+            return {
+                areaColor: '01B5FD',
+                borderColor: '022B8A',
+                bgColor: '000F2D',
+                color: 'C3F5F6',
+                titleColor: '00A8F2',
+                lineColor: '01B5FD',
+                pointColor: 'C3F5F6',
+            };
         default:
             return {
                 areaColor: '9e4c98',

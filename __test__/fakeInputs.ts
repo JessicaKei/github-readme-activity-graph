@@ -713,6 +713,15 @@ export const themes = {
         lineColor: '226d64',
         pointColor: '156f69',
     },
+    deep_ocean: {
+        areaColor: '01B5FD',
+        borderColor: '022B8A',
+        bgColor: '000F2D',
+        color: 'C3F5F6',
+        titleColor: '00A8F2',
+        lineColor: '01B5FD',
+        pointColor: 'C3F5F6',
+    },
     default: {
         areaColor: '9e4c98',
         bgColor: 'ffcfe9',

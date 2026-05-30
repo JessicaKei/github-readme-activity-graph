@@ -59,6 +59,7 @@ const themes = {
     nightowl: { bgColor: '#011627', line: '#c792ea', point: '#ffeb95', color: '#c792ea' },
     'modern-lilac': { bgColor: '#0a0e12', line: '#5d417a', point: '#fab795', color: '#5d417a' },
     arctic: { bgColor: '#03203C', line: '#5DA3FA', point: '#2827CC', color: '#5DA3FA' },
+    deep_ocean: { bgColor: '#000F2D', line: '#01B5FD', point: '#C3F5F6', color: '#C3F5F6' },
 };
 // Handle theme selection
 const onThemeChange = () => {

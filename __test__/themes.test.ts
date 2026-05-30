@@ -25,5 +25,6 @@ test('Theme testing', () => {
     expect(selectColors('green')).toEqual(themes['green']);
     expect(selectColors('aqua')).toEqual(themes['aqua']);
     expect(selectColors('synthwave-84')).toEqual(themes['synthwave-84']);
+    expect(selectColors('deep_ocean')).toEqual(themes['deep_ocean']);
     expect(selectColors('default')).toEqual(themes['default']);
 });
