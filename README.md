@@ -57,12 +57,12 @@ See the original documentation for additional parameters and configuration optio
 
   ```html
   <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-    <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei" />
+    <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
   </a>
   ```
 
 <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-  <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei" />
+  <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
 </a>
   
 </details>
