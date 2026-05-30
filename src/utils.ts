@@ -117,8 +117,8 @@ export class Utilities {
             colors: colors,
             area: area,
             height: this.queryString.height
-                ? Math.min(Math.max(this.queryString.height, 200), 600)
-                : 420, // Custom height implementation from range [200, 600], if not specified use default value - 420
+                ? Math.min(Math.max(this.queryString.height, 200), 1200)
+                : 420, // Custom height implementation from range [200, 1200], if not specified use default value - 420
             days: isFromValid && isToValid ? days : this.validateDays(this.queryString.days),
             grid: this.queryString.grid === 'false' ? false : true,
             from,
