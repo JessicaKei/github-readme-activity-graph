@@ -18,7 +18,6 @@ See original documentation:
 
 Custom deployment for:  
 - profile statistics  
-- language cards  
 - repository activity widgets  
 - theme customization  
 - caching control  
