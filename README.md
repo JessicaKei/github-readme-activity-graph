@@ -34,12 +34,12 @@ jeskei-readme-activity-graph.vercel.app
 **Examples:**  
 
 ```md
-[![GitHub Stats](https://jeskei-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/JessicaKei/github-readme-activity-graph)
+[![Github Activity Graph](https://jeskei-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/JessicaKei/github-readme-activity-graph)
 ```
 
 ```html
 <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-  <img alt="GitHub stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+  <img alt="Github Activity Graph" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
 </a>
 ```
 
@@ -54,12 +54,12 @@ See the original documentation for additional parameters and configuration optio
 
   ```html
   <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-    <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
+    <img alt="Github Activity Graph" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
   </a>
   ```
 
 <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-  <img alt="GitHub Stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
+  <img alt="Github Activity Graph" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean" />
 </a>
   
 </details>
