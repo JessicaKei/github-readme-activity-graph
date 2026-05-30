@@ -42,7 +42,7 @@ jeskei-readme-activity-graph.vercel.app
 
 ```html
 <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-  <img alt="GitHub stats" src="https://jeskei-github-stats.vercel.app/graph?username=YOUR_USERNAME" />
+  <img alt="GitHub stats" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
 </a>
 ```
 
