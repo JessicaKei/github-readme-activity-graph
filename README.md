@@ -14,14 +14,11 @@ See original documentation:
 
 <br />
 
-## Purpose
+## Fork Features
 
-Custom deployment for:  
-- profile statistics  
-- repository activity widgets  
-- theme customization  
-- caching control  
-- uptime stability  
+* Increased the maximum graph height limit from 600 to 1200.
+* Added custom theme deep_ocean
+  [![Top languages](https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean)](https://github.com/JessicaKei/github-readme-activity-graph)
 
 <br />
 
