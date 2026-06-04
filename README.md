@@ -75,7 +75,7 @@ See the original documentation for additional parameters and configuration optio
 > [!WARNING]
 > Please avoid excessive request spam or extremely aggressive cache bypass settings.  
 > Abusive usage may result in temporary or permanent blocking to protect deployment stability for other users.  
-> If you need unrestricted usage, custom limits, or full control over caching behavior, you should deploy your own instance using the original project documentation.
+> If you need unrestricted usage, custom limits, or full control over caching behavior, you should deploy your own instance using the original project documentation.  
 > 
 > [![Vercel](./asset/vercel.svg)](https://vercel.com)
 
